@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aggelos Basdekis.
-- 👀 I’m currently learning JAVA, C#.NETCORE, ANDROID, HTML, CSS, JAVASCRIPT, TYPESCRIPT, SQL, PHP, PYTHON-ANGULAR.
+- 👀 I've learned JAVA, C#.NETCORE, ANDROID, HTML, CSS, JAVASCRIPT, TYPESCRIPT, SQL, PHP, PYTHON-ANGULAR.
 - 🌱 I’m eager to start my coding career.
 - 💞️ I’m looking to collaborate on learning.
 - 📫 How to reach me angbas80@gmail.com or aggelos.basdekis@gmail.com
